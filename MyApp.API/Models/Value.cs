@@ -4,6 +4,5 @@ namespace MyApp.API.Models
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        ggg
     }
 }
