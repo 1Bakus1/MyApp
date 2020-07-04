@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projekty\\MyApp\\MyApp.API\\MyApp.API.csproj": {}
+    "E:\\Projekty\\MyApp\\Myapp.API\\MyApp.API.csproj": {}
   },
   "projects": {
-    "E:\\Projekty\\MyApp\\MyApp.API\\MyApp.API.csproj": {
+    "E:\\Projekty\\MyApp\\Myapp.API\\MyApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projekty\\MyApp\\MyApp.API\\MyApp.API.csproj",
+        "projectUniqueName": "E:\\Projekty\\MyApp\\Myapp.API\\MyApp.API.csproj",
         "projectName": "MyApp.API",
-        "projectPath": "E:\\Projekty\\MyApp\\MyApp.API\\MyApp.API.csproj",
+        "projectPath": "E:\\Projekty\\MyApp\\Myapp.API\\MyApp.API.csproj",
         "packagesPath": "C:\\Users\\bakun\\.nuget\\packages\\",
-        "outputPath": "E:\\Projekty\\MyApp\\MyApp.API\\obj\\",
+        "outputPath": "E:\\Projekty\\MyApp\\Myapp.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bakun\\AppData\\Roaming\\NuGet\\NuGet.Config"
